@@ -162,3 +162,6 @@ cython_debug/
 # MacOS Stuff
 */.DS_Store
 Assignment1/todo.todo
+
+# Datasets
+Assignment2/data
