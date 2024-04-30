@@ -160,7 +160,9 @@ cython_debug/
 #.idea/
 
 # MacOS Stuff
-*/.DS_Store
+.DS_Store
+**/.DS_Store
+
 Assignment1/todo.todo
 
 # Datasets
